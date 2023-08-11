@@ -1,0 +1,27 @@
+{
+  "name": "ts-dependency-injection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaomigithub/ts-dependency-injection.git"
+  },
+  "keywords": [
+    "ts",
+    "ioc",
+    "di"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaomigithub/ts-dependency-injection/issues"
+  },
+  "homepage": "https://github.com/gaomigithub/ts-dependency-injection#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
